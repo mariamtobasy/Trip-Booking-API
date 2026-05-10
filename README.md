@@ -1,98 +1,117 @@
-Trip Booking API
+# Trip Booking API
 
-A backend Trip Booking and Ticketing system built using ASP.NET Core Web API and Entity Framework Core as part of an advanced backend development training program.
+Backend Trip Booking and Ticketing system built with **ASP.NET Core Web API** and **Entity Framework Core** as part of an advanced backend training program.
 
-🚀 Technologies Used
-ASP.NET Core Web API
-Entity Framework Core
-SQL Server
-LINQ
-REST APIs
-JWT Authentication
-FluentValidation
-Middleware
-Repository Pattern
-Unit of Work
-Dependency Injection
-HttpClient
-Stored Procedures & Database Views
-Async / Await
-📌 Project Overview
+---
 
-This project simulates a real-world trip booking system where users can:
+## 🚀 Tech Stack
 
-Browse and search trips
-Book tickets and manage passengers
-Create orders and manage bookings
-Leave reviews and ratings
+- ASP.NET Core Web API
+- Entity Framework Core
+- SQL Server
+- LINQ
+- REST APIs
+- JWT Authentication
+- FluentValidation
+- Middleware
+- Repository Pattern
+- Unit of Work
+- Dependency Injection
+- HttpClient
+- Stored Procedures & Database Views
+- Async / Await
 
-The system is built using clean backend architecture principles and scalable design patterns.
+---
 
-🏗️ Architecture
+## 🎯 Project Overview
+
+This system simulates a real-world trip booking platform where users can:
+
+- Browse and search trips
+- Book tickets and manage passengers
+- Create orders and handle bookings
+- Submit reviews and ratings
+
+The project focuses on clean architecture and backend engineering principles.
+
+---
+
+## 🏗️ Architecture
 
 The project follows a layered architecture:
 
-Controllers → Handle HTTP requests
-Services → Business logic layer
-Repositories → Data access layer
-DbContext (EF Core) → Database communication
-⚙️ Key Features & Concepts
-Entity Framework Core
-Code-First approach
-Migrations and schema management
-Relationships (One-to-One, One-to-Many, Many-to-Many)
-Change tracking & AsNoTracking
-Fluent API configuration
-Eager loading with Include/ThenInclude
-Data Operations
-CRUD operations (Create, Read, Update, Delete)
-LINQ querying (filtering, sorting, projection)
-DTO-based data transfer optimization
-Advanced Backend Concepts
-Transactions using BeginTransactionAsync
-Stored Procedures and Database Views
-Raw SQL queries using FromSqlRaw / ExecuteSqlRaw
-Architecture Patterns
-Repository Pattern
-Unit of Work Pattern
-Dependency Injection
-Clean separation of concerns
-API Design
-RESTful API design principles
-Middleware pipeline (logging, request handling)
-FluentValidation for input validation
-Async/await for performance optimization
-Testing & Debugging
-Unit testing concepts for EF Core
-SQL logging and query debugging
-Validation pipeline testing
-📊 Domain Model
+- **Controllers** → API endpoints  
+- **Services** → Business logic layer  
+- **Repositories** → Data access layer  
+- **DbContext** → Entity Framework Core  
 
-Main entities include:
+---
 
-Users
-Trips
-Routes
-Orders
-Passengers
-Tickets
-Reviews
-🎯 Purpose of the Project
+## ⚙️ Key Features
 
-This project was built to practice real-world backend engineering concepts including:
+### Entity Framework Core
+- Code-First approach
+- Migrations and database management
+- Relationships (1-1, 1-M, M-M)
+- Fluent API configuration
+- Change tracking & eager loading
 
-Scalable API architecture
-Database design with EF Core
-Clean code principles
-Business logic separation
-Production-style backend development
-👩‍💻 Author
+### Data Operations
+- CRUD operations
+- LINQ queries (filtering, sorting, projections)
+- DTO-based responses
 
-Mariam Tobasy
-Computer Science Graduate | Backend & Full-Stack Developer
+### Advanced Backend Concepts
+- Transactions (`BeginTransactionAsync`)
+- Stored Procedures
+- Database Views
+- Raw SQL queries
 
-GitHub: https://github.com/mariamtobasy
-LinkedIn: https://www.linkedin.com/in/mariam-tobasy-238ab7246/
-⭐ Note
+### Architecture & Design Patterns
+- Repository Pattern
+- Unit of Work
+- Dependency Injection
+- Clean architecture principles
 
-This project was developed as part of a structured .NET backend training program focusing on industry-level backend architecture and practices.
+### API & Middleware
+- RESTful API design
+- Middleware pipeline (logging, request handling)
+- FluentValidation
+- Async / Await performance optimization
+
+### Testing & Debugging
+- Unit testing concepts
+- SQL logging and debugging
+- Validation pipeline testing
+
+---
+
+## 📊 Domain Entities
+
+- Users
+- Trips
+- Routes
+- Orders
+- Passengers
+- Tickets
+- Reviews
+
+---
+
+## 💡 Purpose
+
+Built to practice real-world backend engineering including:
+
+- scalable API design  
+- database architecture  
+- clean code structure  
+- enterprise backend patterns  
+
+---
+
+## 👩‍💻 Author
+
+**Mariam Tobasy**
+
+- GitHub: https://github.com/mariamtobasy  
+- LinkedIn: https://www.linkedin.com/in/mariam-tobasy-238ab7246/
