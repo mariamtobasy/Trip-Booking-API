@@ -1,0 +1,489 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Projects\\TripBookingAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{03214D5B-A481-44E3-A34F-12DCBD1C799B}|TripBookingAPI.Tests\\TripBookingAPI.Tests.csproj|c:\\projects\\tripbookingapi\\tripbookingapi.tests\\triptests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03214D5B-A481-44E3-A34F-12DCBD1C799B}|TripBookingAPI.Tests\\TripBookingAPI.Tests.csproj|solutionrelative:tripbookingapi.tests\\triptests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03214D5B-A481-44E3-A34F-12DCBD1C799B}|TripBookingAPI.Tests\\TripBookingAPI.Tests.csproj|c:\\projects\\tripbookingapi\\tripbookingapi.tests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03214D5B-A481-44E3-A34F-12DCBD1C799B}|TripBookingAPI.Tests\\TripBookingAPI.Tests.csproj|solutionrelative:tripbookingapi.tests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{232B6670-319B-49B8-82BF-FF31266AFAC9}|TripBookingAPI\\TripBookingAPI.csproj|c:\\projects\\tripbookingapi\\tripbookingapi\\dtos\\tripvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{232B6670-319B-49B8-82BF-FF31266AFAC9}|TripBookingAPI\\TripBookingAPI.csproj|solutionrelative:tripbookingapi\\dtos\\tripvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{232B6670-319B-49B8-82BF-FF31266AFAC9}|TripBookingAPI\\TripBookingAPI.csproj|c:\\projects\\tripbookingapi\\tripbookingapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{232B6670-319B-49B8-82BF-FF31266AFAC9}|TripBookingAPI\\TripBookingAPI.csproj|solutionrelative:tripbookingapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{232B6670-319B-49B8-82BF-FF31266AFAC9}|TripBookingAPI\\TripBookingAPI.csproj|c:\\projects\\tripbookingapi\\tripbookingapi\\middleware\\loggingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{232B6670-319B-49B8-82BF-FF31266AFAC9}|TripBookingAPI\\TripBookingAPI.csproj|solutionrelative:tripbookingapi\\middleware\\loggingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{232B6670-319B-49B8-82BF-FF31266AFAC9}|TripBookingAPI\\TripBookingAPI.csproj|c:\\projects\\tripbookingapi\\tripbookingapi\\models\\passenger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{232B6670-319B-49B8-82BF-FF31266AFAC9}|TripBookingAPI\\TripBookingAPI.csproj|solutionrelative:tripbookingapi\\models\\passenger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{232B6670-319B-49B8-82BF-FF31266AFAC9}|TripBookingAPI\\TripBookingAPI.csproj|c:\\projects\\tripbookingapi\\tripbookingapi\\interfaces\\itriprepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{232B6670-319B-49B8-82BF-FF31266AFAC9}|TripBookingAPI\\TripBookingAPI.csproj|solutionrelative:tripbookingapi\\interfaces\\itriprepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{232B6670-319B-49B8-82BF-FF31266AFAC9}|TripBookingAPI\\TripBookingAPI.csproj|c:\\projects\\tripbookingapi\\tripbookingapi\\repositories\\triprepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{232B6670-319B-49B8-82BF-FF31266AFAC9}|TripBookingAPI\\TripBookingAPI.csproj|solutionrelative:tripbookingapi\\repositories\\triprepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{232B6670-319B-49B8-82BF-FF31266AFAC9}|TripBookingAPI\\TripBookingAPI.csproj|c:\\projects\\tripbookingapi\\tripbookingapi\\models\\route.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{232B6670-319B-49B8-82BF-FF31266AFAC9}|TripBookingAPI\\TripBookingAPI.csproj|solutionrelative:tripbookingapi\\models\\route.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{232B6670-319B-49B8-82BF-FF31266AFAC9}|TripBookingAPI\\TripBookingAPI.csproj|c:\\projects\\tripbookingapi\\tripbookingapi\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{232B6670-319B-49B8-82BF-FF31266AFAC9}|TripBookingAPI\\TripBookingAPI.csproj|solutionrelative:tripbookingapi\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{232B6670-319B-49B8-82BF-FF31266AFAC9}|TripBookingAPI\\TripBookingAPI.csproj|c:\\projects\\tripbookingapi\\tripbookingapi\\services\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{232B6670-319B-49B8-82BF-FF31266AFAC9}|TripBookingAPI\\TripBookingAPI.csproj|solutionrelative:tripbookingapi\\services\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{232B6670-319B-49B8-82BF-FF31266AFAC9}|TripBookingAPI\\TripBookingAPI.csproj|c:\\projects\\tripbookingapi\\tripbookingapi\\dtos\\createbookingdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{232B6670-319B-49B8-82BF-FF31266AFAC9}|TripBookingAPI\\TripBookingAPI.csproj|solutionrelative:tripbookingapi\\dtos\\createbookingdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{232B6670-319B-49B8-82BF-FF31266AFAC9}|TripBookingAPI\\TripBookingAPI.csproj|c:\\projects\\tripbookingapi\\tripbookingapi\\dtos\\tripdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{232B6670-319B-49B8-82BF-FF31266AFAC9}|TripBookingAPI\\TripBookingAPI.csproj|solutionrelative:tripbookingapi\\dtos\\tripdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{232B6670-319B-49B8-82BF-FF31266AFAC9}|TripBookingAPI\\TripBookingAPI.csproj|c:\\projects\\tripbookingapi\\tripbookingapi\\services\\dashboardservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{232B6670-319B-49B8-82BF-FF31266AFAC9}|TripBookingAPI\\TripBookingAPI.csproj|solutionrelative:tripbookingapi\\services\\dashboardservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{232B6670-319B-49B8-82BF-FF31266AFAC9}|TripBookingAPI\\TripBookingAPI.csproj|c:\\projects\\tripbookingapi\\tripbookingapi\\controllers\\tripscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{232B6670-319B-49B8-82BF-FF31266AFAC9}|TripBookingAPI\\TripBookingAPI.csproj|solutionrelative:tripbookingapi\\controllers\\tripscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{232B6670-319B-49B8-82BF-FF31266AFAC9}|TripBookingAPI\\TripBookingAPI.csproj|c:\\projects\\tripbookingapi\\tripbookingapi\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{232B6670-319B-49B8-82BF-FF31266AFAC9}|TripBookingAPI\\TripBookingAPI.csproj|solutionrelative:tripbookingapi\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{232B6670-319B-49B8-82BF-FF31266AFAC9}|TripBookingAPI\\TripBookingAPI.csproj|c:\\projects\\tripbookingapi\\tripbookingapi\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{232B6670-319B-49B8-82BF-FF31266AFAC9}|TripBookingAPI\\TripBookingAPI.csproj|solutionrelative:tripbookingapi\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{232B6670-319B-49B8-82BF-FF31266AFAC9}|TripBookingAPI\\TripBookingAPI.csproj|c:\\projects\\tripbookingapi\\tripbookingapi\\models\\trip.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{232B6670-319B-49B8-82BF-FF31266AFAC9}|TripBookingAPI\\TripBookingAPI.csproj|solutionrelative:tripbookingapi\\models\\trip.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{232B6670-319B-49B8-82BF-FF31266AFAC9}|TripBookingAPI\\TripBookingAPI.csproj|c:\\projects\\tripbookingapi\\tripbookingapi\\models\\ticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{232B6670-319B-49B8-82BF-FF31266AFAC9}|TripBookingAPI\\TripBookingAPI.csproj|solutionrelative:tripbookingapi\\models\\ticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{232B6670-319B-49B8-82BF-FF31266AFAC9}|TripBookingAPI\\TripBookingAPI.csproj|c:\\projects\\tripbookingapi\\tripbookingapi\\models\\review.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{232B6670-319B-49B8-82BF-FF31266AFAC9}|TripBookingAPI\\TripBookingAPI.csproj|solutionrelative:tripbookingapi\\models\\review.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{232B6670-319B-49B8-82BF-FF31266AFAC9}|TripBookingAPI\\TripBookingAPI.csproj|c:\\projects\\tripbookingapi\\tripbookingapi\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{232B6670-319B-49B8-82BF-FF31266AFAC9}|TripBookingAPI\\TripBookingAPI.csproj|solutionrelative:tripbookingapi\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{232B6670-319B-49B8-82BF-FF31266AFAC9}|TripBookingAPI\\TripBookingAPI.csproj|c:\\projects\\tripbookingapi\\tripbookingapi\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{232B6670-319B-49B8-82BF-FF31266AFAC9}|TripBookingAPI\\TripBookingAPI.csproj|solutionrelative:tripbookingapi\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{232B6670-319B-49B8-82BF-FF31266AFAC9}|TripBookingAPI\\TripBookingAPI.csproj|c:\\projects\\tripbookingapi\\tripbookingapi\\migrations\\20260421130203_seedordersdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{232B6670-319B-49B8-82BF-FF31266AFAC9}|TripBookingAPI\\TripBookingAPI.csproj|solutionrelative:tripbookingapi\\migrations\\20260421130203_seedordersdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{232B6670-319B-49B8-82BF-FF31266AFAC9}|TripBookingAPI\\TripBookingAPI.csproj|c:\\projects\\tripbookingapi\\tripbookingapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{232B6670-319B-49B8-82BF-FF31266AFAC9}|TripBookingAPI\\TripBookingAPI.csproj|solutionrelative:tripbookingapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{232B6670-319B-49B8-82BF-FF31266AFAC9}|TripBookingAPI\\TripBookingAPI.csproj|c:\\projects\\tripbookingapi\\tripbookingapi\\tripbookingapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{232B6670-319B-49B8-82BF-FF31266AFAC9}|TripBookingAPI\\TripBookingAPI.csproj|solutionrelative:tripbookingapi\\tripbookingapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{232B6670-319B-49B8-82BF-FF31266AFAC9}|TripBookingAPI\\TripBookingAPI.csproj|c:\\projects\\tripbookingapi\\tripbookingapi\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{232B6670-319B-49B8-82BF-FF31266AFAC9}|TripBookingAPI\\TripBookingAPI.csproj|solutionrelative:tripbookingapi\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{232B6670-319B-49B8-82BF-FF31266AFAC9}|TripBookingAPI\\TripBookingAPI.csproj|c:\\projects\\tripbookingapi\\tripbookingapi\\migrations\\20260404172911_addrelationshipsandmanytomany.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{232B6670-319B-49B8-82BF-FF31266AFAC9}|TripBookingAPI\\TripBookingAPI.csproj|solutionrelative:tripbookingapi\\migrations\\20260404172911_addrelationshipsandmanytomany.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{232B6670-319B-49B8-82BF-FF31266AFAC9}|TripBookingAPI\\TripBookingAPI.csproj|c:\\projects\\tripbookingapi\\tripbookingapi\\migrations\\20260326163109_finishweek2seeding.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{232B6670-319B-49B8-82BF-FF31266AFAC9}|TripBookingAPI\\TripBookingAPI.csproj|solutionrelative:tripbookingapi\\migrations\\20260326163109_finishweek2seeding.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{232B6670-319B-49B8-82BF-FF31266AFAC9}|TripBookingAPI\\TripBookingAPI.csproj|c:\\projects\\tripbookingapi\\tripbookingapi\\migrations\\20260326091616_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{232B6670-319B-49B8-82BF-FF31266AFAC9}|TripBookingAPI\\TripBookingAPI.csproj|solutionrelative:tripbookingapi\\migrations\\20260326091616_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TripTests.cs",
+              "DocumentMoniker": "C:\\Projects\\TripBookingAPI\\TripBookingAPI.Tests\\TripTests.cs",
+              "RelativeDocumentMoniker": "TripBookingAPI.Tests\\TripTests.cs",
+              "ToolTip": "C:\\Projects\\TripBookingAPI\\TripBookingAPI.Tests\\TripTests.cs",
+              "RelativeToolTip": "TripBookingAPI.Tests\\TripTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-04T16:14:38.073Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Projects\\TripBookingAPI\\TripBookingAPI.Tests\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "TripBookingAPI.Tests\\UnitTest1.cs",
+              "ToolTip": "C:\\Projects\\TripBookingAPI\\TripBookingAPI.Tests\\UnitTest1.cs",
+              "RelativeToolTip": "TripBookingAPI.Tests\\UnitTest1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-04T16:06:34.588Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TripValidator.cs",
+              "DocumentMoniker": "C:\\Projects\\TripBookingAPI\\TripBookingAPI\\DTOs\\TripValidator.cs",
+              "RelativeDocumentMoniker": "TripBookingAPI\\DTOs\\TripValidator.cs",
+              "ToolTip": "C:\\Projects\\TripBookingAPI\\TripBookingAPI\\DTOs\\TripValidator.cs",
+              "RelativeToolTip": "TripBookingAPI\\DTOs\\TripValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-03T20:55:38.532Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LoggingMiddleware.cs",
+              "DocumentMoniker": "C:\\Projects\\TripBookingAPI\\TripBookingAPI\\Middleware\\LoggingMiddleware.cs",
+              "RelativeDocumentMoniker": "TripBookingAPI\\Middleware\\LoggingMiddleware.cs",
+              "ToolTip": "C:\\Projects\\TripBookingAPI\\TripBookingAPI\\Middleware\\LoggingMiddleware.cs",
+              "RelativeToolTip": "TripBookingAPI\\Middleware\\LoggingMiddleware.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-03T20:38:40.455Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Route.cs",
+              "DocumentMoniker": "C:\\Projects\\TripBookingAPI\\TripBookingAPI\\Models\\Route.cs",
+              "RelativeDocumentMoniker": "TripBookingAPI\\Models\\Route.cs",
+              "ToolTip": "C:\\Projects\\TripBookingAPI\\TripBookingAPI\\Models\\Route.cs",
+              "RelativeToolTip": "TripBookingAPI\\Models\\Route.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-26T11:45:39.819Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "DashboardService.cs",
+              "DocumentMoniker": "C:\\Projects\\TripBookingAPI\\TripBookingAPI\\Services\\DashboardService.cs",
+              "RelativeDocumentMoniker": "TripBookingAPI\\Services\\DashboardService.cs",
+              "ToolTip": "C:\\Projects\\TripBookingAPI\\TripBookingAPI\\Services\\DashboardService.cs",
+              "RelativeToolTip": "TripBookingAPI\\Services\\DashboardService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-21T16:29:08.748Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Projects\\TripBookingAPI\\TripBookingAPI\\Program.cs",
+              "RelativeDocumentMoniker": "TripBookingAPI\\Program.cs",
+              "ToolTip": "C:\\Projects\\TripBookingAPI\\TripBookingAPI\\Program.cs",
+              "RelativeToolTip": "TripBookingAPI\\Program.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAIBJwD0AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-25T22:20:26.539Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Passenger.cs",
+              "DocumentMoniker": "C:\\Projects\\TripBookingAPI\\TripBookingAPI\\Models\\Passenger.cs",
+              "RelativeDocumentMoniker": "TripBookingAPI\\Models\\Passenger.cs",
+              "ToolTip": "C:\\Projects\\TripBookingAPI\\TripBookingAPI\\Models\\Passenger.cs",
+              "RelativeToolTip": "TripBookingAPI\\Models\\Passenger.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-26T11:46:19.259Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CreateBookingDTO.cs",
+              "DocumentMoniker": "C:\\Projects\\TripBookingAPI\\TripBookingAPI\\DTOs\\CreateBookingDTO.cs",
+              "RelativeDocumentMoniker": "TripBookingAPI\\DTOs\\CreateBookingDTO.cs",
+              "ToolTip": "C:\\Projects\\TripBookingAPI\\TripBookingAPI\\DTOs\\CreateBookingDTO.cs",
+              "RelativeToolTip": "TripBookingAPI\\DTOs\\CreateBookingDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-28T18:54:56.636Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "OrderService.cs",
+              "DocumentMoniker": "C:\\Projects\\TripBookingAPI\\TripBookingAPI\\Services\\OrderService.cs",
+              "RelativeDocumentMoniker": "TripBookingAPI\\Services\\OrderService.cs",
+              "ToolTip": "C:\\Projects\\TripBookingAPI\\TripBookingAPI\\Services\\OrderService.cs",
+              "RelativeToolTip": "TripBookingAPI\\Services\\OrderService.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAwwCQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-28T16:37:42.032Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "TripDTO.cs",
+              "DocumentMoniker": "C:\\Projects\\TripBookingAPI\\TripBookingAPI\\DTOs\\TripDTO.cs",
+              "RelativeDocumentMoniker": "TripBookingAPI\\DTOs\\TripDTO.cs",
+              "ToolTip": "C:\\Projects\\TripBookingAPI\\TripBookingAPI\\DTOs\\TripDTO.cs",
+              "RelativeToolTip": "TripBookingAPI\\DTOs\\TripDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-16T13:23:14.812Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "OrdersController.cs",
+              "DocumentMoniker": "C:\\Projects\\TripBookingAPI\\TripBookingAPI\\Controllers\\OrdersController.cs",
+              "RelativeDocumentMoniker": "TripBookingAPI\\Controllers\\OrdersController.cs",
+              "ToolTip": "C:\\Projects\\TripBookingAPI\\TripBookingAPI\\Controllers\\OrdersController.cs",
+              "RelativeToolTip": "TripBookingAPI\\Controllers\\OrdersController.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwBkAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-20T20:09:53.696Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "TripsController.cs",
+              "DocumentMoniker": "C:\\Projects\\TripBookingAPI\\TripBookingAPI\\Controllers\\TripsController.cs",
+              "RelativeDocumentMoniker": "TripBookingAPI\\Controllers\\TripsController.cs",
+              "ToolTip": "C:\\Projects\\TripBookingAPI\\TripBookingAPI\\Controllers\\TripsController.cs",
+              "RelativeToolTip": "TripBookingAPI\\Controllers\\TripsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-09T13:33:28.279Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ITripRepository.cs",
+              "DocumentMoniker": "C:\\Projects\\TripBookingAPI\\TripBookingAPI\\Interfaces\\ITripRepository.cs",
+              "RelativeDocumentMoniker": "TripBookingAPI\\Interfaces\\ITripRepository.cs",
+              "ToolTip": "C:\\Projects\\TripBookingAPI\\TripBookingAPI\\Interfaces\\ITripRepository.cs",
+              "RelativeToolTip": "TripBookingAPI\\Interfaces\\ITripRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-01T16:31:18.076Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "TripRepository.cs",
+              "DocumentMoniker": "C:\\Projects\\TripBookingAPI\\TripBookingAPI\\Repositories\\TripRepository.cs",
+              "RelativeDocumentMoniker": "TripBookingAPI\\Repositories\\TripRepository.cs",
+              "ToolTip": "C:\\Projects\\TripBookingAPI\\TripBookingAPI\\Repositories\\TripRepository.cs",
+              "RelativeToolTip": "TripBookingAPI\\Repositories\\TripRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBZwAwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-01T16:34:14.868Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "DashboardController.cs",
+              "DocumentMoniker": "C:\\Projects\\TripBookingAPI\\TripBookingAPI\\Controllers\\DashboardController.cs",
+              "RelativeDocumentMoniker": "TripBookingAPI\\Controllers\\DashboardController.cs",
+              "ToolTip": "C:\\Projects\\TripBookingAPI\\TripBookingAPI\\Controllers\\DashboardController.cs",
+              "RelativeToolTip": "TripBookingAPI\\Controllers\\DashboardController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-21T17:27:40.26Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Projects\\TripBookingAPI\\TripBookingAPI\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "TripBookingAPI\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Projects\\TripBookingAPI\\TripBookingAPI\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "TripBookingAPI\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-25T21:58:59.257Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Ticket.cs",
+              "DocumentMoniker": "C:\\Projects\\TripBookingAPI\\TripBookingAPI\\Models\\Ticket.cs",
+              "RelativeDocumentMoniker": "TripBookingAPI\\Models\\Ticket.cs",
+              "ToolTip": "C:\\Projects\\TripBookingAPI\\TripBookingAPI\\Models\\Ticket.cs",
+              "RelativeToolTip": "TripBookingAPI\\Models\\Ticket.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-26T11:48:34.608Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Projects\\TripBookingAPI\\TripBookingAPI\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "TripBookingAPI\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Projects\\TripBookingAPI\\TripBookingAPI\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "TripBookingAPI\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-05T17:57:35.269Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "20260421130203_SeedOrdersData.cs",
+              "DocumentMoniker": "C:\\Projects\\TripBookingAPI\\TripBookingAPI\\Migrations\\20260421130203_SeedOrdersData.cs",
+              "RelativeDocumentMoniker": "TripBookingAPI\\Migrations\\20260421130203_SeedOrdersData.cs",
+              "ToolTip": "C:\\Projects\\TripBookingAPI\\TripBookingAPI\\Migrations\\20260421130203_SeedOrdersData.cs",
+              "RelativeToolTip": "TripBookingAPI\\Migrations\\20260421130203_SeedOrdersData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBJwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-21T13:02:04.734Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Projects\\TripBookingAPI\\TripBookingAPI\\Models\\Order.cs",
+              "RelativeDocumentMoniker": "TripBookingAPI\\Models\\Order.cs",
+              "ToolTip": "C:\\Projects\\TripBookingAPI\\TripBookingAPI\\Models\\Order.cs",
+              "RelativeToolTip": "TripBookingAPI\\Models\\Order.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-25T21:55:26.016Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Projects\\TripBookingAPI\\TripBookingAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "TripBookingAPI\\appsettings.json",
+              "ToolTip": "C:\\Projects\\TripBookingAPI\\TripBookingAPI\\appsettings.json",
+              "RelativeToolTip": "TripBookingAPI\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-03-25T22:19:35.203Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Trip.cs",
+              "DocumentMoniker": "C:\\Projects\\TripBookingAPI\\TripBookingAPI\\Models\\Trip.cs",
+              "RelativeDocumentMoniker": "TripBookingAPI\\Models\\Trip.cs",
+              "ToolTip": "C:\\Projects\\TripBookingAPI\\TripBookingAPI\\Models\\Trip.cs",
+              "RelativeToolTip": "TripBookingAPI\\Models\\Trip.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-25T21:54:48.031Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "TripBookingAPI.csproj",
+              "DocumentMoniker": "C:\\Projects\\TripBookingAPI\\TripBookingAPI\\TripBookingAPI.csproj",
+              "RelativeDocumentMoniker": "TripBookingAPI\\TripBookingAPI.csproj",
+              "ToolTip": "C:\\Projects\\TripBookingAPI\\TripBookingAPI\\TripBookingAPI.csproj",
+              "RelativeToolTip": "TripBookingAPI\\TripBookingAPI.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-03-25T21:58:08.206Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Review.cs",
+              "DocumentMoniker": "C:\\Projects\\TripBookingAPI\\TripBookingAPI\\Models\\Review.cs",
+              "RelativeDocumentMoniker": "TripBookingAPI\\Models\\Review.cs",
+              "ToolTip": "C:\\Projects\\TripBookingAPI\\TripBookingAPI\\Models\\Review.cs",
+              "RelativeToolTip": "TripBookingAPI\\Models\\Review.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-26T11:49:05.353Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Projects\\TripBookingAPI\\TripBookingAPI\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "TripBookingAPI\\appsettings.Development.json",
+              "ToolTip": "C:\\Projects\\TripBookingAPI\\TripBookingAPI\\appsettings.Development.json",
+              "RelativeToolTip": "TripBookingAPI\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-04-05T17:32:05.489Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "20260404172911_AddRelationshipsAndManyToMany.cs",
+              "DocumentMoniker": "C:\\Projects\\TripBookingAPI\\TripBookingAPI\\Migrations\\20260404172911_AddRelationshipsAndManyToMany.cs",
+              "RelativeDocumentMoniker": "TripBookingAPI\\Migrations\\20260404172911_AddRelationshipsAndManyToMany.cs",
+              "ToolTip": "C:\\Projects\\TripBookingAPI\\TripBookingAPI\\Migrations\\20260404172911_AddRelationshipsAndManyToMany.cs",
+              "RelativeToolTip": "TripBookingAPI\\Migrations\\20260404172911_AddRelationshipsAndManyToMany.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-04T17:29:11.307Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "20260326163109_FinishWeek2Seeding.cs",
+              "DocumentMoniker": "C:\\Projects\\TripBookingAPI\\TripBookingAPI\\Migrations\\20260326163109_FinishWeek2Seeding.cs",
+              "RelativeDocumentMoniker": "TripBookingAPI\\Migrations\\20260326163109_FinishWeek2Seeding.cs",
+              "ToolTip": "C:\\Projects\\TripBookingAPI\\TripBookingAPI\\Migrations\\20260326163109_FinishWeek2Seeding.cs",
+              "RelativeToolTip": "TripBookingAPI\\Migrations\\20260326163109_FinishWeek2Seeding.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAQwA0AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-26T16:31:10.014Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "20260326091616_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Projects\\TripBookingAPI\\TripBookingAPI\\Migrations\\20260326091616_InitialCreate.cs",
+              "RelativeDocumentMoniker": "TripBookingAPI\\Migrations\\20260326091616_InitialCreate.cs",
+              "ToolTip": "C:\\Projects\\TripBookingAPI\\TripBookingAPI\\Migrations\\20260326091616_InitialCreate.cs",
+              "RelativeToolTip": "TripBookingAPI\\Migrations\\20260326091616_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-26T09:16:17.023Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
